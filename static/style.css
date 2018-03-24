@@ -1,0 +1,54 @@
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.text {
+ width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+}
+.submit {
+ width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+.btn-primary{
+   border: 2px solid transparent;
+}
+
+ 
+
+
+ 
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+.text {
+ width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+}
+.submit {
+ width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    cursor: pointer;
+}
+
+.btn-primary{
+   border: 2px solid transparent;
+}
+
+ 
+
+
+ 
